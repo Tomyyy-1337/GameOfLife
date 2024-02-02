@@ -1,0 +1,31 @@
+#Life 1.05
+#D Two-barrelled p46 glider gun
+#D found by Bill Gosper.
+#D [[ THUMBNAIL THUMBSIZE 3 ]]
+#N
+#P -9 -7
+***
+..*
+..*
+.*
+.
+.*
+..*
+..*
+***
+#P 6 -3
+***
+*
+*
+.*
+.
+.*
+*
+*
+***
+#P 23 -3
+**
+.*
+#P -25 0
+*
+**
